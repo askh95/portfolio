@@ -34,7 +34,7 @@ function ProjectHeader() {
 						clip-rule="evenodd"
 					></path>
 				</svg>
-				Work\askh
+				Askh95
 			</Link>
 			<h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
 				{project()?.name}

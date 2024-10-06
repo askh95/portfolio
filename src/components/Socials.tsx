@@ -6,7 +6,7 @@ function Socials() {
 		{ icon: "/iconGithub.svg", link: "https://github.com/askh95" },
 		{
 			icon: "/iconTelegram.svg",
-			link: "https://t.me/workaskh",
+			link: "https://t.me/askh95",
 		},
 	];
 

@@ -105,7 +105,7 @@ export default function Home() {
 				<div className="flex w-full lg:w-1/2 lg:sticky flex-col lg:top-0 lg:h-screen py-12 lg:py-24 px-4 lg:px-0">
 					<h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
 						<a href="/" data-ninja-font="inter_bold_normal" className="">
-							Work\askh
+                        Askh95
 						</a>
 					</h1>
 					<h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
