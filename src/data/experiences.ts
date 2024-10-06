@@ -11,8 +11,27 @@ export type ExperienceType = {
 
 export const Experiences: ExperienceType[] = [
 	{
+		start: "Август",
+		end: "Октябрь",
+		title: "Frontend Developer",
+		company: "Gotbit",
+		link: "https://gotbit.io/",
+		description:
+			"Разрабатывал мобильную версию и редизайн сайта с Antd. Реализовал новые страницы, исправлял баги в формах, увеличив выручку. Участвовал в создании Bff на Nest.js, проводил рефакторинг и code-review, оценивал задачи и сроки.",
+		skills: [
+			"Next.js",
+			"TypeScript",
+			"Redux + MobX",
+			"Node.js",
+			"Nest.js",
+			"CSS in JS",
+			"Jira",
+			"React-Router",
+		],
+	},
+	{
 		start: "2024",
-		end: "Сейчас",
+		end: "Август",
 		title: "Frontend Developer",
 		company: "Protomind",
 		link: "https://protomind.tech/",
@@ -30,7 +49,7 @@ export const Experiences: ExperienceType[] = [
 	{
 		start: "2023",
 		end: "2024",
-		title: "Junior Frontend Developer",
+		title: "Frontend Developer",
 		company: "RentEase",
 		link: "https://www.myrentease.co/",
 		description:
